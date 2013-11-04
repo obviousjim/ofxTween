@@ -3,6 +3,7 @@
 
 
 #include "Poco/Timestamp.h"
+#include "Poco/Delegate.h"
 #include "ofxEasing.h"
 #include "ofMain.h"
 
